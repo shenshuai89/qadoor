@@ -1,3 +1,3 @@
 # qadoor
- 
- master has not advertisement; 
+ www.qadoor.com
+ master has not advertisement; www 
