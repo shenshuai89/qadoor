@@ -2,11 +2,16 @@
  http://www.lovedesign.com.cn/sam/QAdoor/index.html
  
  master has not advertisement; 
-# home
+# [home]
  ![image](https://github.com/shenshuai89/qadoor/blob/master/img/home.png)
  
-# list
+# [list]
 ![image](https://github.com/shenshuai89/qadoor/blob/master/img/list.png)
 
-# detail
+# [detail]
 ![image](https://github.com/shenshuai89/qadoor/blob/master/img/detail.png)
+
+
+[home]: <http://www.lovedesign.com.cn/sam/QAdoor/index.html>
+[list]: <http://lovedesign.com.cn/sam/QAdoor/list/javascript/>
+[detail]: <http://www.lovedesign.com.cn/sam/QAdoor/detail.html>
