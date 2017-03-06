@@ -517,7 +517,7 @@ footer dl dd +dd{
 	color: #bbb;
 }
 .answers_list article{
-	min-height: 50px;
+	min-height: 75px;
 	border-bottom: 1px solid #ccc;
 }
 .answers_num{
@@ -625,11 +625,11 @@ footer dl dd +dd{
 /*广告*/
 .ad_first{
 	height: 95px;
-	background-color: #ccc;
+	/*background-color: #ccc;*/
 }
 .ad_second{
-	height: 200px;
-	background-color: #ccc;
+	height: 600px;
+	/*background-color: #ccc;*/
 }
 
 
